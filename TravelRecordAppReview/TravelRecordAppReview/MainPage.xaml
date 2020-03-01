@@ -18,8 +18,8 @@
                 Margin="0, 50, 0, 0"
                 Text="Log-in"
                 Clicked="LogInButton_Clicked"
-                BackgroundColor="DodgerBlue"
-                TextColor="White"/>
+                BackgroundColor="{StaticResource blueColor}"
+                TextColor="{StaticResource whiteColor}"/>
     </StackLayout>
 
 </ContentPage>
